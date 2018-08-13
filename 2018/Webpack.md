@@ -11,3 +11,9 @@ React/Basic loaders were actually quite easy to setup and get my head around. Ho
 ## Solutions
 
 ## Basic Setup Outline
+
+### Credits
+
+#### Author
+
+Leon Boehmer 2018.
