@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This will outline how one can integrate Webpack 4 with all the latest React jazz.
+This will guide will outline all the findings I have made recently with webpack 4, react & react-router. There have been some tricky bits and stuff I had to search for. I even switched over to parcel because I was having some problems with webpack. However webpack is just more versatile. Parcel is also a very new and recent bundler with a couple of bugs that are yet to be fixed. But if you just want to get your head around bundling to start with it's a cool starter option.
 
 ## Problems I encountered
 
